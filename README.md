@@ -1,2 +1,2 @@
 # Hello-World
-A simple video game in C
+A simple game in C
